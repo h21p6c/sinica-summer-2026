@@ -5,3 +5,5 @@ Materials from Hok Ip Chow's summer internship at the Institute of Information S
 The project formalises [Pédrot’s prefascist CwF with Π-types in Agda](prefascist.agda), inspired by Kaposi and Pujet’s construction. It also includes the [prefascist Yoneda embedding](prefascistYoneda.agda).
 
 The [extended abstract](extended-abstract.pdf) provides further details and references. The [presentation](slides.pdf) was a 25-minute talk given on 25 August 2026, for an audience not expected to have a background in category theory.
+
+The Agda code has been checked with Agda 2.9.0.
